@@ -12,8 +12,8 @@ Main Purpose of the system is Maintain the stock, Decrease the stock when issue 
 •These level are completed after then issue the material.
 •So, decreased the stock, then used MIN.
 
-Inventory management system is Maintain the stock.
-Inserting the supplier , items , etc….when purchase.
-Decrease the stock when issue the stock.
-Generate the three reports: - Item Summary Report - Material Issue Note (MIN) Report - Material Receipt Note (MRN) Report
+Prerequisite: 
+
+Netbeans 8.0.2, SQL Server 2008
+
 
